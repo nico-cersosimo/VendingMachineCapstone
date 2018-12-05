@@ -1,0 +1,2 @@
+# VendingMachineCapstone
+Created an application on Microsoft Visual Studio in C# which allows a user to select food or drink item from a virtual vending machine menu and then prompts the user to insert the correct amount of money or more for their purchase. Dispenses coin change if the user inserts more money than the cost of the item. Finally creates an ongoing sales report for each item and a sales log for each completed transaction.
